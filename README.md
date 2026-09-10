@@ -31,7 +31,6 @@
 
 I'm currently building and improving projects as part of my software engineering journey.
 
-- 🏦 **Secure Bank** — Banking application built with C# and JSON-based data storage
 - 🎮 **Doomsday** — 2D Tower Defense game built with Unity and C#
 - 🌐 **Web Projects** — Exploring modern web development and application design
 
