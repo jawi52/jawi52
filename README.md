@@ -1,60 +1,37 @@
 # Jawad Ahmad
 
-Software Engineering undergraduate at the University of Engineering and Technology (UET), Lahore, focused on building software products, object-oriented design, and modern full-stack web development.
-
----
-
 ## About Me
+I am a Software Engineering student at the University of Engineering and Technology (UET) Lahore. I enjoy learning how software works, solving programming problems, and experimenting with different technologies by building projects. I am currently focusing on C#, Object-Oriented Programming, Data Structures & Algorithms, and software development. I am also exploring Full-Stack Development, AI/ML, and DevOps while continuously improving my problem-solving and programming skills.
 
-I am a Software Engineering student at UET Lahore with a strong interest in software architecture, clean code principles, and product development. My academic and practical work centers on designing robust systems using C# and Python, implementing core data structures and algorithms, and developing responsive web applications with React.js.
-
-I am actively expanding my expertise across full-stack development, database architecture, and version-controlled collaborative workflows.
-
----
-
-## Skills and Technologies
-
-| Category | Technologies |
-|:---|:---|
-| **Languages** | C#, Python, JavaScript (ES6+), SQL, HTML5, CSS3 |
-| **Frontend** | React.js, Bootstrap |
-| **Databases** | MySQL |
-| **Developer Tools** | Git, GitHub, Visual Studio Code, Visual Studio |
-| **Core Competencies** | Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Normalization |
-
----
+## Skills & Technologies
+| Category  | Technologies |
+|-----------|--------------|
+| Languages | C#, Python, JavaScript, SQL |
+| Web | HTML, CSS, Bootstrap, React |
+| Programming | Object-Oriented Programming, Data Structures & Algorithms |
+| Database | SQL Server, MySQL, |
+| Game Development | Unity, C# |
+| Tools | Git, GitHub, Visual Studio, VS Code |
 
 ## Featured Projects
 
-### Student Management System
-- **Technologies:** C#, .NET, MySQL
-- **Description:** A desktop application designed to manage student records, course registrations, and grade calculations using object-oriented principles and relational data persistence.
-- **Repository:** [View on GitHub](https://github.com/jawi52)
+### 2D Tower Defense Game — Doomsday
+A 2D tower defense game developed as a team project using Unity and C#. The game features enemy waves, tower placement, player resources, and game-session management. The project also uses SQL Server for storing and managing game-related data, with ADO.NET used for database connectivity.
 
-### Responsive Web Applications
-- **Technologies:** React.js, JavaScript, HTML5, CSS3, Bootstrap
-- **Description:** Interactive single-page web applications emphasizing clean component composition, responsive layouts across devices, and state management.
-- **Repository:** [View on GitHub](https://github.com/jawi52)
+**Tech Stack:** C#, Unity, SQL Server, ADO.NET
 
----
+### Banking App — Secure Bank
+A banking application developed with separate frontend and backend components. The frontend provides a banking dashboard for interacting with different banking features, while the backend is a C# console application that manages users, accounts, transactions, loans, cards, and bills using JSON-based data storage.
+
+The project also includes features such as account management, transaction handling, loan management, bill management, and a Qard Hasan interest-free loan concept.
+
+**Tech Stack:** C#, HTML, CSS, Bootstrap, JavaScript, JSON, Colorama
+
 
 ## Education
+B.Sc. Software Engineering, University of Engineering and Technology (UET) Lahore, 2025–2029
 
-**Bachelor of Science in Software Engineering (BS SE)**  
-University of Engineering and Technology (UET), Lahore  
-*Expected Graduation: 2026*  
-- Key Coursework: Object-Oriented Programming, Data Structures and Algorithms, Software Engineering, Database Systems, Computer Networks.
-
----
-
-## Licenses and Certifications
-
-- **Web Development: HTML, CSS, JavaScript, Bootstrap, React JS** (Udemy)
-
----
-
-## Connect With Me
-
-- **GitHub:** [@jawi52](https://github.com/jawi52)
-- **LinkedIn:** [Jawad Ahmad](https://www.linkedin.com/in/jawad-ahmad)
-- **Email:** [jawadx002@gmail.com](mailto:jawadx002@gmail.com)
+## Contact
+- Email: jawadx002@gmail.com
+- LinkedIn: [Profile](https://www.linkedin.com/in/jawadahmad-se/)
+- GitHub: [@jawi52](https://github.com/jawi52)
